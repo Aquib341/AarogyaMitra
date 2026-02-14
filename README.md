@@ -1,4 +1,4 @@
-# AarogyaMitra 🏥
+# AarogyaMitra 
 
 AarogyaMitra is an advanced AI-powered health assistant designed to provide intelligent medical guidance and visual analysis. It combines the power of Large Language Models (LLMs) with Computer Vision to assist users in understanding their health concerns, analyzing medical reports, and providing accessible health information.
 
